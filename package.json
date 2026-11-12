@@ -1,0 +1,30 @@
+{
+  "name": "viggoskj-cryptography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViggoSkj/viggoskj-cryptography.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViggoSkj/viggoskj-cryptography/issues"
+  },
+  "homepage": "https://github.com/ViggoSkj/viggoskj-cryptography#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "upgrade": "^1.1.0"
+  }
+}
